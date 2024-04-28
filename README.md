@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Guilherme129/Guilherme129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Olá! 👋 Meu nome é Guilherme.</h1>
+<h2>Sobre mim</h2>
+- 🌱 Sou um estudante de ciência da computação e estou atualmente no 1° semestre. <br>
+- 🍀 Sou estudante também de ánalise e desenvolvimento de sistemas na ETEC EAD <br>
+- 🌵 Fiz alguns cursos sobre linguagens e lógica de programação pela Digital Innovation One <br>
+- 🌲 Tenho conhecimento intermediário em inglês <br>
+<h3>Conhecimentos básicos em:</h3>
+--> Linguagens: C#, PHP, JavaScript, HTML, CSS e Golang. <br>
+--> Frameworks: React e Angular <br>
+--> Banco de dados: MySQL <br> <br>
+<strong>Espero que tenham se interessado 😁</strong>
